@@ -1,511 +1,511 @@
 {
-    "mayor": "Mayor",
+    "mayor": "Belediye Başkanı",
     "general": "General",
-    "scientist": "Scientist",
+    "scientist": "Bilim İnsanı",
     "diplomat": "Diplomat",
     "layout": {
-        "highscore": "Highscore",
-        "options": "Options",
+        "highscore": "Sıralama",
+        "options": "Ayarlar",
         "github": "Github",
-        "logout": "Logout"
+        "logout": "Çıkış Yap"
     },
     "navigation": {
-        "world": "World",
-        "island": "Island",
-        "city": "City",
-        "actionPoint": "Action Points",
-        "showCities": "Show cities",
-        "population": "Population",
+        "world": "Dünya",
+        "island": "Ada",
+        "city": "Şehir",
+        "actionPoint": "Eylem Puanları",
+        "showCities": "Şehirleri göster",
+        "population": "Nüfus",
         "patreon": "Patreon"
     },
     "resources": {
-        "wood": "Wood",
-        "wine": "Wine",
-        "marble": "Marble",
-        "glass": "Glass",
-        "sulfur": "Sulfur",
-        "ships": "Ships",
-        "gold": "Gold",
-        "timec": "Time",
-        "population": "Population"
+        "wood": "Odun",
+        "wine": "Şarap",
+        "marble": "Mermer",
+        "glass": "Kristal",
+        "sulfur": "Kükürt",
+        "ships": "Gemiler",
+        "gold": "Altın",
+        "timec": "Zaman",
+        "population": "Nüfus"
     },
     "text": {
-        "message": "Are you sure?",
-        "cancel": "Cancel",
-        "confirm": "Confirm",
-        "shipment": "Shipment"
+        "message": "Emin misiniz?",
+        "cancel": "İptal",
+        "confirm": "Onayla",
+        "shipment": "Sevkiyat"
     },
     "buildings": {
         "1": {
-            "name": "Town Hall",
-            "text": "At the heart of the town you can find the town hall through which the town grows and flourishes. The smart civil servants, who work here, love to give you information about your local population Every expansion of the town hall increases the maximum number of citizens in this town."
+            "name": "Belediye Binası",
+            "text": "Şehrin kalbinde, şehrin büyüyüp gelişmesini sağlayan Belediye Binası'nı bulabilirsiniz. Burada çalışan zeki memurlar, yerel nüfusunuz hakkında size bilgi vermeyi sever. Belediye Binası'nı her yükselttiğinizde bu şehirde yaşayabilecek maksimum vatandaş sayısı artar."
         },
         "2": {
-            "name": "Academy",
-            "text": "The academy is a sublime place full of knowledge which combines old traditions with modern technology. The wisest heads of your town await entrance! Consider that every scientist needs his own laboratory which costs money. The larger the academy the more scientists you can employ at the same time."
+            "name": "Akademi",
+            "text": "Akademi, eski geleneklerle modern teknolojiyi birleştiren, bilgeliğin hüküm sürdüğü yüce bir yerdir. Şehrinizin en bilge kafaları burada görev almayı bekliyor! Unutmayın, her bilim insanının para harcayan kendi laboratuvarına ihtiyacı vardır. Akademinizi büyüttükçe aynı anda çalıştırabileceğiniz bilim insanı sayısı artar."
         },
         "3": {
-            "name": "Warehouse",
-            "text": "Some of your supplies are protected from pillagers at the warehouse. It keeps rain, birds and other pests away. The warehouse keeper is also always well informed about your supplies. Expanding your warehouse allows you to protect and store more resources."
+            "name": "Depo",
+            "text": "Depo, ganimet peşindeki yağmacılara karşı erzaklarınızın bir kısmını korur. Yağmur, kuşlar ve diğer zararlıları malzemelerinizden uzak tutar. Depo sorumlusu, stoklarınız hakkında her zaman iyi bilgilidir. Deponuzu genişlettiğinizde daha fazla kaynağı koruyup depolayabilirsiniz."
         },
         "4": {
-            "name": "Barracks",
-            "text": "At the Barracks the boisterous youth are honed into keen fighters. Your soldiers know how to handle swords, spears and slings and are also able to lead the mightiest war machines safely over the field. Troops are trained more quickly when you expand your Barracks. There is a minimum training time of 1 second per unit and 10 seconds per training order."
+            "name": "Kışla",
+            "text": "Kışlada, coşkulu gençler keskin savaşçılara dönüştürülür. Askerleriniz kılıç, mızrak ve sapan kullanmayı öğrenir ve en güçlü savaş makinelerini bile güvenle sahaya sürebilir. Kışlanızı yükselttikçe birlikler daha hızlı eğitilir. Her birlik için minimum eğitim süresi birim başına 1 saniye ve her eğitim emri için 10 saniyedir."
         },
         "5": {
-            "name": "Tavern",
-            "text": "After a hard day`s work there is nothing more pleasant than a cool jug of wine. That`s why your citizens love to meet at the tavern. And when the last old songs have been sung at the end of the day, they set out merrily and cheerful to their homes. Every expansion of your tavern allows you to serve more wine."
+            "name": "Meyhane",
+            "text": "Zor geçen bir günün ardından soğuk bir testi şaraptan daha keyifli bir şey yoktur. Bu yüzden vatandaşlarınız meyhanede buluşmayı çok sever. Günün sonunda son eski şarkılar da söylendikten sonra neşeyle evlerine dönerler. Meyhanenizin her yükseltmesi, daha fazla şarap servis etmenizi sağlar."
         },
         "6": {
-            "name": "Carpenter`s Workshop",
-            "text": "Only the best lumber is used at the Carpenter’s Workshop. Our handy craftsmen use this to put together solid timber frameworks so our houses do not have to be repaired all the time. Every level of the Carpenter’s Workshop lowers your demand for building material by 1% of the base value, up to a maximum of 50%."
+            "name": "Marangoz Atölyesi",
+            "text": "Marangoz Atölyesi'nde yalnızca en kaliteli keresteler kullanılır. Usta zanaatkârlarımız bu keresteleri, evlerimizin sürekli tamir görmesini engelleyecek sağlam iskeletlere dönüştürür. Marangoz Atölyesi'nin her seviyesi, temel değere göre inşaat malzemesi ihtiyacınızı %1 azaltır ve bu indirim en fazla %50'ye kadar çıkar."
         },
         "7": {
-            "name": "Optician",
-            "text": "Lenses and magnifying glasses don’t just help our scientists to see clearly and to find important papers on their desk, but they are also necessary for inventing all those new technologies that make us so proud. The Optician keeps everything we need carefully stored in boxes, so that fewer things get lost. For every level of the building, the demand for crystal in your town is reduced by 1% of the base value, up to a maximum of 50%."
+            "name": "Optikçi",
+            "text": "Lensler ve büyüteçler, yalnızca bilim insanlarımızın net görmesine ve masalarındaki önemli belgeleri bulmasına yardımcı olmakla kalmaz, aynı zamanda bizi gururlandıran yeni teknolojilerin icadı için de gereklidir. Optikçi, ihtiyaç duyduğumuz her şeyi dikkatle kutularda saklar, böylece daha az eşya kaybolur. Bu binanın her seviyesi, şehrinizdeki kristal ihtiyacını temel değere göre %1 azaltır, en fazla %50'ye kadar."
         },
         "8": {
-            "name": "Firework Test Area",
-            "text": "Constant firework tests don’t just light up the skies but sometimes also the surrounding buildings. However our scientists can only optimise the demand for sulphur if they keep testing new mixtures. For every level of the building, the demand for sulphur in your town is reduced by 1% of the base value, up to a maximum of 50%."
+            "name": "Havai Fişek Test Alanı",
+            "text": "Sürekli yapılan havai fişek testleri yalnızca gökyüzünü değil, bazen çevredeki binaları da aydınlatır. Ancak bilim insanlarımız, yeni karışımları denemeye devam etmedikçe kükürt ihtiyacını optimize edemez. Bu binanın her seviyesi, şehrinizdeki kükürt ihtiyacını temel değere göre %1 azaltır, en fazla %50'ye kadar."
         },
         "9": {
-            "name": "Wine Press",
-            "text": "Only the purest wines mature in the town’s deep and cool cellars. The cellarer ensures that not a drop goes to waste and that all the wine can run down the throats of your citizens. For every level of the building, the demand for wine in your town is reduced by 1% of the base value, up to a maximum of 50%."
+            "name": "Şarap Presi",
+            "text": "Şehrin derin ve serin mahzenlerinde yalnızca en saf şaraplar olgunlaşır. Mahzen sorumlusu, tek bir damlanın bile israf olmamasını sağlar ve şarabın tamamı vatandaşlarınızın boğazından aşağı akar. Bu binanın her seviyesi, şehrinizdeki şarap ihtiyacını temel değere göre %1 azaltır, en fazla %50'ye kadar."
         },
         "10": {
-            "name": "Stonemason",
-            "text": "A trained Stonemason always quarries the right blocks of marble with his strong arms. Thus less is broken and our builders always have the material they need. For every level of expansion, this building increases your marble production by 2% of the base value, up to a maximum of 140%."
+            "name": "Mermer Ustası",
+            "text": "Eğitimli bir Mermer Ustası, güçlü kollarıyla her zaman doğru mermer bloklarını çıkarır. Böylece daha az mermer ziyan olur ve inşaatçılarımız ihtiyaç duydukları malzemeye her zaman sahip olur. Bu binanın her yükseltme seviyesi, mermer üretiminizi temel değere göre %2 artırır ve bu artış en fazla %140'a kadar çıkar."
         },
         "11": {
-            "name": "Forester`s House",
-            "text": "Strong lumberjacks can chop down even the largest trees. But they also know that a forest must be cultivated and new trees planted so that we can continue to use only the best timber for our houses. Every level of the Forester’s House increases your production of building material by 2% of the base value, up to a maximum of 140%."
+            "name": "Ormancı Evi",
+            "text": "Güçlü oduncular en büyük ağaçları bile devirebilir. Ancak aynı zamanda, ormanın bakım görmesi ve yeni ağaçlar dikilmesi gerektiğini de bilirler, böylece evlerimiz için her zaman en kaliteli keresteyi kullanabiliriz. Ormancı Evi'nin her seviyesi, temel değere göre inşaat malzemesi üretiminizi %2 artırır ve bu artış en fazla %140'a kadar çıkar."
         },
         "12": {
-            "name": "Glassblower",
-            "text": "True masters of their art create sparkling pieces at the Glassblower’s house. The blow tubes, glasses and all sorts of other apparatus are only understood by our scientists. And they are so nimble, that barely anything ever gets broken. Every level of the Glassblower increases your production of crystal by 2% of the base value, up to a maximum of 140%."
+            "name": "Cam Ustası",
+            "text": "Gerçek ustalar, Cam Ustası'nın evinde parıldayan eserler yaratır. Üfleme boruları, şişeler ve diğer tüm araç gereçleri sadece bilim insanlarımız anlayabilir. O kadar ustadırlar ki neredeyse hiçbir şey kırılmaz. Bu binanın her seviyesi, kristal üretiminizi temel değere göre %2 artırır ve artış en fazla %140'a kadar çıkar."
         },
         "13": {
-            "name": "Alchemist`s Tower",
-            "text": "When the wind blows from the west, a smell fills the streets around the tower and not many citizens are seen leaving the house without a peg on their nose. Our alchemists work restlessly on finding the perfect mixture and ensuring that we can get the maximum amount of sulphur from the pit. For every level of the building, your sulphur production is increased by 2% of the base value, up to a maximum of 140%."
+            "name": "Simyacı Kulesi",
+            "text": "Rüzgâr batıdan estiğinde, kulenin çevresindeki sokakları bir koku kaplar ve pek çok vatandaş burunlarına mandal takmadan dışarı çıkmak istemez. Simyacılarımız, en mükemmel karışımı bulmak ve ocaktan en fazla kükürtü elde etmek için durmaksızın çalışır. Bu binanın her seviyesi, kükürt üretiminizi temel değere göre %2 artırır, en fazla %140'a kadar."
         },
         "14": {
-            "name": "Winery",
-            "text": "A winegrower only chooses the most sunny hills of the surrounding area to cover them with the comforting green of the vines. That’s how the vineyards produce plump fruits that make for a much better harvest. Every level of the Winery increases your wine production by 2% of the base value, up to a maximum of 140%."
+            "name": "Şaraphane",
+            "text": "Bağcılar, çevredeki en güneşli yamaçları seçip bunları asmaların rahatlatıcı yeşiliyle donatır. Böylece bağlar, çok daha bereketli bir hasat sağlayan dolgun meyveler verir. Şaraphane'nin her seviyesi, şarap üretiminizi temel değere göre %2 artırır ve bu artış en fazla %140'a kadar çıkar."
         },
         "15": {
-            "name": "Stonemason",
-            "text": "A trained Stonemason always quarries the right blocks of marble with his strong arms. Thus less is broken and our builders always have the material they need. For every level of expansion, this building increases your marble production by 2% of the base value, up to a maximum of 140%."
+            "name": "Mermer Ustası",
+            "text": "Eğitimli bir Mermer Ustası, güçlü kollarıyla her zaman doğru mermer bloklarını çıkarır. Böylece daha az mermer ziyan olur ve inşaatçılarımız ihtiyaç duydukları malzemeye her zaman sahip olur. Bu binanın her yükseltme seviyesi, mermer üretiminizi temel değere göre %2 artırır ve bu artış en fazla %140'a kadar çıkar."
         },
         "16": {
-            "name": "Trading Port",
-            "text": "The port is your gate to the world. Here you can recruit transport ships and ready them for long journeys. If you have a Dockyard, you can also purchase Freighters here at the port. You can pick up precious goods from all over the world here. In larger ports, your ships will load faster. You can build another port, which increases your loading speed, as soon as you have completed the research dry-dock."
+            "name": "Ticaret Limanı",
+            "text": "Liman, dünyaya açılan kapınızdır. Burada ticaret gemileri kiralayabilir ve onları uzun yolculuklara hazırlayabilirsiniz. Eğer bir Tersaneniz varsa, limanda Yük Gemileri de satın alabilirsiniz. Dünyanın her yerinden değerli mallar bu limana gelir. Daha büyük limanlarda gemileriniz daha hızlı yükleme yapar. Kuru havuz araştırmasını tamamladıktan sonra, yükleme hızınızı artıran ek bir liman daha inşa edebilirsiniz."
         },
         "17": {
-            "name": "Palace",
-            "text": "The Palace is an excellent place to lead your empire into the future! It also provides a gorgeous view of the sea. Every expansion of your capital’s Palace allows you to found an additional colony. Palace levels 21 and above do not permit any more cities to be built. The current maximum of 21 towns (1 capital + 20 colonies) remains, but these higher levels do allow enemy towns to be occupied even if you have reached the limit of your own towns."
+            "name": "Saray",
+            "text": "Saray, imparatorluğunuzu geleceğe taşıyabileceğiniz görkemli bir yerdir! Ayrıca denize bakan muhteşem bir manzaraya sahiptir. Başkentinize ait Sarayı her genişlettiğinizde ekstra bir koloni kurabilirsiniz. 21 ve üzeri Saray seviyeleri yeni şehir kurmanıza izin vermez. Mevcut maksimum 21 şehir (1 başkent + 20 koloni) sınırı korunur, ancak bu yüksek seviyeler, kendi şehir sınırınıza ulaşmış olsanız bile düşman şehirlerini işgal etmenize imkân tanır."
         },
         "18": {
-            "name": "Governor`s Residence",
-            "text": "A governor in your colony guarantees that all the daily administrative tasks are done properly. He also lowers the level of corruption in your colony. The governor`s residence can be upgraded to a palace if you ever want to move your capital."
+            "name": "Vali Konağı",
+            "text": "Koloninizdeki bir vali, tüm günlük idari işlerin düzgün yürütülmesini garanti eder. Ayrıca koloninizdeki yolsuzluk seviyesini de düşürür. Eğer başkentinizi taşımak isterseniz, Vali Konağı'nı bir gün Saray'a yükseltebilirsiniz."
         },
         "19": {
-            "name": "Town Wall",
-            "text": "The town wall protects your citizens against your enemies and the sun. Beware! Enemies will try to tear holes into your wall or to climb over it. Every level increases the resistance of your town wall."
+            "name": "Şehir Surları",
+            "text": "Şehir surları vatandaşlarınızı hem düşmanlarınızdan hem de güneşten korur. Dikkat! Düşmanlar surlarınızda gedikler açmaya veya üzerinden tırmanmaya çalışacaktır. Her seviye, şehir surlarınızın dayanıklılığını artırır."
         }
     },
     "modal": {
         "general": {
-            "militia": "Militia",
-            "receivedMessages": "Received Messages",
-            "sentReports": "Sent Reports",
-            "movements": "Movements ({{count}})",
-            "warReports": "War Reports ({{count}})",
-            "tabReceivedTitle": "Received Messages",
-            "tabSentTitle": "Sent Messages",
-            "noMovements": "No movements",
-            "altMovements": "Movements icon",
-            "altReports": "Reports icon",
-            "mission": "Mission",
-            "schedule": "Schedule",
-            "origin": "Origin",
-            "destination": "Destination",
-            "action": "Action",
-            "viewCargo": "View Cargo",
-            "withdraw": "Withdraw",
+            "militia": "Milis",
+            "receivedMessages": "Gelen Mesajlar",
+            "sentReports": "Gönderilen Raporlar",
+            "movements": "Hareketler ({{count}})",
+            "warReports": "Savaş Raporları ({{count}})",
+            "tabReceivedTitle": "Gelen Mesajlar",
+            "tabSentTitle": "Gönderilen Mesajlar",
+            "noMovements": "Herhangi bir hareket yok",
+            "altMovements": "Hareketler simgesi",
+            "altReports": "Raporlar simgesi",
+            "mission": "Görev",
+            "schedule": "Zamanlama",
+            "origin": "Kaynak",
+            "destination": "Hedef",
+            "action": "İşlem",
+            "viewCargo": "Yükü görüntüle",
+            "withdraw": "Geri çek",
             "movementType": {
-                "transport": "Transport",
-                "attack": "Attack",
-                "defense": "Defense",
-                "colonize": "Colonize"
+                "transport": "Taşıma",
+                "attack": "Saldırı",
+                "defense": "Savunma",
+                "colonize": "Kolonileştirme"
             }
         },
         "research": {
-            "scientistAlt": "Scientist icon",
-            "piAlt": "PI icon",
-            "researchTimeAlt": "Research time icon",
-            "scientists": "Scientists",
+            "scientistAlt": "Bilim insanı simgesi",
+            "piAlt": "PI simgesi",
+            "researchTimeAlt": "Araştırma süresi simgesi",
+            "scientists": "Bilim insanları",
             "pi": "PI",
-            "perHour": "Per hour",
-            "cost": "Cost",
-            "previousLevelRequired": "Previous level required",
-            "finished": "Finished",
-            "researchButton": "Research",
-            "notEnoughPoints": "Not enough points",
-            "windowLeftTitle": "Scientific Advisor",
-            "windowRightTitle": "Research Area"
+            "perHour": "Saatlik",
+            "cost": "Maliyet",
+            "previousLevelRequired": "Önceki seviye gerekli",
+            "finished": "Tamamlandı",
+            "researchButton": "Araştır",
+            "notEnoughPoints": "Yeterli puan yok",
+            "windowLeftTitle": "Bilim Danışmanı",
+            "windowRightTitle": "Araştırma Alanı"
         },
         "donations": {
-            "level": "Level",
-            "required_next_level": "Required for next level:",
-            "existing": "Existing:",
-            "donate": "Donate",
-            "enter_amount": "Enter amount",
-            "max": "Max",
-            "confirm": "Confirm",
-            "under_construction": "Under construction",
-            "forestTitle": "Forest",
-            "vinesTitle": "Vines",
-            "quarryTitle": "Quarry",
-            "crystalTitle": "Crystal",
-            "sulfurTitle": "Sulfur",
-            "workers": "Workers",
-            "islandCities": "Island Cities",
-            "income": "Income",
-            "production": "Production",
-            "perHour": "per hour"
+            "level": "Seviye",
+            "required_next_level": "Sonraki seviye için gerekli:",
+            "existing": "Mevcut:",
+            "donate": "Bağış yap",
+            "enter_amount": "Miktar girin",
+            "max": "Maks",
+            "confirm": "Onayla",
+            "under_construction": "İnşa ediliyor",
+            "forestTitle": "Orman",
+            "vinesTitle": "Bağlar",
+            "quarryTitle": "Taş Ocağı",
+            "crystalTitle": "Kristal",
+            "sulfurTitle": "Kükürt",
+            "workers": "İşçiler",
+            "islandCities": "Ada Şehirleri",
+            "income": "Gelir",
+            "production": "Üretim",
+            "perHour": "saatlik"
         },
         "mayor": {
-            "title": "Mayor",
-            "current_events": "Current events ({{total}})",
-            "place": "Place",
-            "date": "Date",
-            "subject": "Subject",
-            "go_to_city": "Go to city",
-            "merchant_arrived": "Your merchant fleet from {{from}} has arrived at {{to}} and delivered the following goods:",
-            "enemy_arrived": "An enemy fleet from {{from}} has arrived at your city {{to}} and delivered the following goods:",
-            "city_founded": "Your city {{city}} has been founded.",
-            "units_completed": "Units have been completed in the barracks:",
-            "prev_10": "Previous 10",
-            "next_10": "Next 10"
+            "title": "Belediye Başkanı",
+            "current_events": "Güncel olaylar ({{total}})",
+            "place": "Yer",
+            "date": "Tarih",
+            "subject": "Konu",
+            "go_to_city": "Şehre git",
+            "merchant_arrived": "{{from}} şehrinden gelen ticaret filonuz {{to}} şehrine ulaştı ve şu malları teslim etti:",
+            "enemy_arrived": "{{from}} şehrinden gelen düşman filosu {{to}} şehrinize ulaştı ve şu malları teslim etti:",
+            "city_founded": "{{city}} şehriniz kuruldu.",
+            "units_completed": "Kışlada şu birliklerin eğitimi tamamlandı:",
+            "prev_10": "Önceki 10",
+            "next_10": "Sonraki 10"
         },
         "message": {
-            "actions": "Actions",
-            "receiver": "Receiver",
-            "subject": "Subject",
-            "message": "Message",
-            "city": "City",
-            "date": "Date",
-            "go_to_city": "Go to city",
-            "all": "All",
-            "none": "None",
-            "unread": "Unread",
-            "read": "Read",
-            "prev_10": "Previous 10 messages",
-            "next_10": "Next 10 messages",
-            "mark_read": "Mark as read",
-            "remove": "Remove",
-            "inbox": "Inbox",
-            "outbox": "Outbox",
-            "inbox_title": "Unread/Total received messages",
-            "outbox_title": "Sent messages",
-            "noMessage": "No messages available"
+            "actions": "İşlemler",
+            "receiver": "Alıcı",
+            "subject": "Konu",
+            "message": "Mesaj",
+            "city": "Şehir",
+            "date": "Tarih",
+            "go_to_city": "Şehre git",
+            "all": "Tümü",
+            "none": "Hiçbiri",
+            "unread": "Okunmamış",
+            "read": "Okunmuş",
+            "prev_10": "Önceki 10 mesaj",
+            "next_10": "Sonraki 10 mesaj",
+            "mark_read": "Okundu olarak işaretle",
+            "remove": "Sil",
+            "inbox": "Gelen Kutusu",
+            "outbox": "Giden Kutusu",
+            "inbox_title": "Okunmamış/Toplam gelen mesajlar",
+            "outbox_title": "Gönderilen mesajlar",
+            "noMessage": "Mesaj bulunmuyor"
         },
         "islandCity": {
-            "viewReport": "View Report",
-            "ship": "Ship",
-            "journeyTime": "Journey Time",
-            "loadTime": "Load Time",
-            "travelTime": "Travel Time",
-            "target": "Target",
-            "attackInfo": "Other cities may have treasures better stored in our depot. Units outside your city pay double upkeep. Think carefully before sending your troops to plunder.",
-            "sendArmy": "Send Army",
-            "attackWarning": "Command your Polis troops to plunder the city. Keep the target city port free of enemy ships, or your troops may be captured by merchant ships!",
-            "plunder": "Plunder!",
-            "text": "Send a message to another city.",
-            "receiver": "Receiver",
-            "subject": "Subject",
-            "message": "Message",
-            "errorMessage": "Message cannot be empty.",
-            "characters": "characters remaining",
-            "send": "Send",
-            "transportMsg": "Select which goods and how many you want to transport from {{city_from.name}} to {{data.city.name}}. Keep in mind the number of trade ships you’ll need for this operation!",
-            "name": "City",
-            "player": "Player",
-            "alliance": "Alliance",
-            "points": "Points",
-            "writeMessage": "Write Message",
-            "transportResources": "Transport Resources",
-            "attack": "Pillage",
-            "info": "Info",
-            "diplomacy": "Diplomacy",
-            "defend": "Defend town!",
-            "transport": "Transport goods",
-            "actions": "Actions",
-            "colonizeTitle": "Colonize",
-            "colonizeInfo": "This place seems perfect for a new town! A shallow section of the coast provides access to the ocean and the fertile green hills in the area can feed a lot of people.",
-            "colonizeRequirements": "The founding of a colony requires:"
+            "viewReport": "Raporu görüntüle",
+            "ship": "Gemi",
+            "journeyTime": "Yolculuk Süresi",
+            "loadTime": "Yükleme Süresi",
+            "travelTime": "Seyahat Süresi",
+            "target": "Hedef",
+            "attackInfo": "Diğer şehirlerin hazineleri depomuzda daha iyi korunacaktır. Şehrinizin dışında bulunan birlikler iki kat bakım ücreti öder. Yağmaya asker göndermeden önce iyi düşünün.",
+            "sendArmy": "Ordu gönder",
+            "attackWarning": "Polis birliklerinize şehri yağmalama emri verin. Hedef şehrin limanını düşman gemilerinden arındırın, yoksa askerleriniz ticaret gemileri tarafından esir alınabilir!",
+            "plunder": "Yağmala!",
+            "text": "Başka bir şehre mesaj gönderin.",
+            "receiver": "Alıcı",
+            "subject": "Konu",
+            "message": "Mesaj",
+            "errorMessage": "Mesaj boş olamaz.",
+            "characters": "karakter kaldı",
+            "send": "Gönder",
+            "transportMsg": "{{city_from.name}} şehrinden {{data.city.name}} şehrine hangi kaynaklardan, ne kadar taşımak istediğinizi seçin. Bu işlem için kaç ticaret gemisine ihtiyaç duyacağınızı unutmayın!",
+            "name": "Şehir",
+            "player": "Oyuncu",
+            "alliance": "İttifak",
+            "points": "Puan",
+            "writeMessage": "Mesaj yaz",
+            "transportResources": "Kaynak taşı",
+            "attack": "Yağmala",
+            "info": "Bilgi",
+            "diplomacy": "Diplomasi",
+            "defend": "Şehri savun!",
+            "transport": "Ticaret yap",
+            "actions": "İşlemler",
+            "colonizeTitle": "Kolonileştir",
+            "colonizeInfo": "Burası yeni bir şehir için mükemmel görünüyor! Sığ kıyı, denize açılmamızı sağlıyor ve etraftaki verimli yeşil tepeler pek çok insanı doyurabilir.",
+            "colonizeRequirements": "Bir koloni kurmak için gerekenler:"
         },
         "building": {
-            "list_title": "Construction list",
-            "text": "A vast and empty place catches your eye. Which building should your citizens construct here?",
-            "research": "Required research:",
-            "buildNow": "Build now!",
-            "noResources": "You don’t have enough resources",
-            "building": "Under construction",
-            "title": "Units scheduled for training",
-            "no_units": "No units have been selected",
-            "button": "Train",
-            "trainFormation": "Train units",
-            "max": "max",
-            "required_level": "Required barracks level {{level}}",
-            "notice_title": "Notice",
-            "no_issue": "Nothing to report! Congratulations, everything in the city is in order!",
-            "corruption_title": "Corruption is rampant in this city.",
-            "corruption_text": "Productivity and satisfaction in this city are clearly declining! Expand your Governor's Residence or Palace to reduce corruption.",
-            "living_space": "Living space: {{current}}/{{max}}",
-            "action_points": "Action points: {{current}}/{{max}}",
-            "growth": "Growth: {{amount}} per hour",
-            "total_gold": "Total gold: {{amount}}",
-            "corruption": "Corruption: {{amount}}%",
-            "happy": "Happy",
-            "change_city_name": "Change city name",
-            "previous_name": "Previous city name:",
-            "new_name": "New city name:",
-            "accept_name": "Accept name",
-            "satisfaction_title": "Satisfaction Level",
-            "satisfaction_description": "Satisfaction in your city is influenced by various factors. This chart can help identify problems and opportunities.",
-            "bonuses": "Bonuses",
-            "basic_bonus": "Basic bonus",
-            "wine": "Wine",
-            "no_tavern": "There is no Tavern in this city yet!",
-            "maintenance": "Maintenance",
-            "population": "Population",
-            "satisfaction_level": "Satisfaction Level:",
-            "capital": "Capital",
-            "colony": "Colony",
-            "workers": "Workers",
-            "confirm": "Confirm",
-            "income": "Income",
-            "production": "Production",
-            "perHour": "per hour",
-            "upgrade": "Upgrade",
-            "demolition": "Demolition",
-            "level": "Level",
-            "upgradeText": "Upgrade building to level {{level}}",
+            "list_title": "İnşaat listesi",
+            "text": "Gözünüze geniş ve boş bir alan çarpıyor. Vatandaşlarınız burada hangi binayı inşa etmeli?",
+            "research": "Gerekli araştırma:",
+            "buildNow": "Hemen inşa et!",
+            "noResources": "Yeterli kaynağınız yok",
+            "building": "İnşa ediliyor",
+            "title": "Eğitim için sıraya alınan birlikler",
+            "no_units": "Herhangi bir birlik seçilmedi",
+            "button": "Eğit",
+            "trainFormation": "Birlik eğit",
+            "max": "maks",
+            "required_level": "Gerekli kışla seviyesi {{level}}",
+            "notice_title": "Duyuru",
+            "no_issue": "Rapor edilecek bir sorun yok! Tebrikler, şehirde her şey yolunda!",
+            "corruption_title": "Bu şehirde yolsuzluk kol geziyor.",
+            "corruption_text": "Bu şehirde verimlilik ve memnuniyet açıkça düşüyor! Yolsuzluğu azaltmak için Vali Konağı'nı veya Saray'ı genişletin.",
+            "living_space": "Yaşam alanı: {{current}}/{{max}}",
+            "action_points": "Eylem puanları: {{current}}/{{max}}",
+            "growth": "Büyüme: saatte {{amount}}",
+            "total_gold": "Toplam altın: {{amount}}",
+            "corruption": "Yolsuzluk: %{{amount}}",
+            "happy": "Mutlu",
+            "change_city_name": "Şehir adını değiştir",
+            "previous_name": "Önceki şehir adı:",
+            "new_name": "Yeni şehir adı:",
+            "accept_name": "Adı onayla",
+            "satisfaction_title": "Memnuniyet Seviyesi",
+            "satisfaction_description": "Şehrinizdeki memnuniyet, çeşitli etkenlerden etkilenir. Bu grafik, sorunları ve fırsatları belirlemenize yardımcı olur.",
+            "bonuses": "Bonuslar",
+            "basic_bonus": "Temel bonus",
+            "wine": "Şarap",
+            "no_tavern": "Bu şehirde henüz bir Meyhane yok!",
+            "maintenance": "Bakım",
+            "population": "Nüfus",
+            "satisfaction_level": "Memnuniyet seviyesi:",
+            "capital": "Başkent",
+            "colony": "Koloni",
+            "workers": "İşçiler",
+            "confirm": "Onayla",
+            "income": "Gelir",
+            "production": "Üretim",
+            "perHour": "saatlik",
+            "upgrade": "Yükselt",
+            "demolition": "Yıkım",
+            "level": "Seviye",
+            "upgradeText": "Binayı {{level}} seviyesine yükselt",
             "warehouse": {
-                "title": "Warehouse",
-                "safe": "Protected",
-                "notSafe": "Unprotected",
-                "total": "Total",
-                "capacity": "Capacity"
+                "title": "Depo",
+                "safe": "Korunan",
+                "notSafe": "Korunmayan",
+                "total": "Toplam",
+                "capacity": "Kapasite"
             },
             "buildingProducer": {
-                "title": "{{building}} Production",
-                "productionBase": "Base Production",
-                "total": "Total"
+                "title": "{{building}} üretimi",
+                "productionBase": "Temel üretim",
+                "total": "Toplam"
             },
             "port": {
-                "speedTitle": "Port Loading Speed",
-                "speedText": "This is the speed at which your port can load goods.",
-                "speedMin": "per min",
-                "tradeShipBuyTitle": "Buy Trade Ship",
-                "tradeShipBuyText": "You can purchase trade ships to expand your trading capabilities.",
-                "tradeShipBuyBtn": "Buy Trade Ship",
-                "tradeShipBuyMissing1": "Not enough gold to buy a trade ship.",
-                "tradeShipBuyMissing2": "You need {{goldMissing}} more gold.",
-                "cost": "Cost"
+                "speedTitle": "Liman Yükleme Hızı",
+                "speedText": "Bu, limanınızın malları hangi hızda yükleyebildiğini gösterir.",
+                "speedMin": "dakikada",
+                "tradeShipBuyTitle": "Ticaret Gemisi Satın Al",
+                "tradeShipBuyText": "Ticaret kapasitenizi artırmak için ticaret gemileri satın alabilirsiniz.",
+                "tradeShipBuyBtn": "Ticaret Gemisi Satın Al",
+                "tradeShipBuyMissing1": "Ticaret gemisi satın almak için yeterli altın yok.",
+                "tradeShipBuyMissing2": "Bu gemiyi almak için {{goldMissing}} altına daha ihtiyacınız var.",
+                "cost": "Maliyet"
             },
             "buildingReducer": {
-                "building": "Building",
-                "costBase": "Base Cost",
-                "research": "Research"
+                "building": "Bina",
+                "costBase": "Temel maliyet",
+                "research": "Araştırma"
             },
             "tavern": {
-                "title": "Serve Wine",
-                "description": "You can determine how much wine will be served to your population. The more wine you offer, the happier your citizens will be. Warning: Each time you distribute more wine, the tavern keeper will need an extra ration!",
-                "citizensSatisfied": "Satisfied Citizens",
-                "noWine": "No wine",
-                "winePerHour": "wine per hour"
+                "title": "Şarap Servis Et",
+                "description": "Halkınıza ne kadar şarap servis edileceğine kendiniz karar verebilirsiniz. Ne kadar çok şarap sunarsanız, vatandaşlarınız o kadar mutlu olur. Uyarı: Her şarap artırımı için meyhaneci fazladan bir miktar pay isteyecektir!",
+                "citizensSatisfied": "Memnun vatandaşlar",
+                "noWine": "Şarap yok",
+                "winePerHour": "saatlik şarap"
             },
             "barracks": {
-                "requiredLevel": "Requires building level {{level}}",
-                "max": "max"
+                "requiredLevel": "Gerekli bina seviyesi {{level}}",
+                "max": "maks"
             }
         }
     },
     "login": {
-        "title": "Login",
-        "emailPlaceholder": "Email",
-        "passwordPlaceholder": "Password",
-        "submit": "Submit",
-        "noAccount": "Don't have an account?",
-        "createAccount": "Create one"
+        "title": "Giriş Yap",
+        "emailPlaceholder": "E-posta",
+        "passwordPlaceholder": "Şifre",
+        "submit": "Gönder",
+        "noAccount": "Hesabınız yok mu?",
+        "createAccount": "Hesap oluştur"
     },
     "register": {
-        "title": "Register",
-        "namePlaceholder": "Name",
-        "emailPlaceholder": "Email",
-        "passwordPlaceholder": "Password",
-        "passwordConfirmPlaceholder": "Password Confirmation",
-        "submit": "Submit",
-        "errorPlaceholder": "Error message placeholder",
-        "alreadyAccount": "Already have an account?",
-        "login": "Login"
+        "title": "Kayıt Ol",
+        "namePlaceholder": "İsim",
+        "emailPlaceholder": "E-posta",
+        "passwordPlaceholder": "Şifre",
+        "passwordConfirmPlaceholder": "Şifre doğrulama",
+        "submit": "Gönder",
+        "errorPlaceholder": "Hata mesajı alanı",
+        "alreadyAccount": "Zaten bir hesabınız var mı?",
+        "login": "Giriş Yap"
     },
     "validation": {
-        "required": "This field is required",
-        "max": "Maximum {{max}} characters",
-        "invalidEmail": "Invalid email address",
-        "passwordsNotMatch": "Passwords do not match"
+        "required": "Bu alan zorunludur",
+        "max": "Maksimum {{max}} karakter",
+        "invalidEmail": "Geçersiz e-posta adresi",
+        "passwordsNotMatch": "Şifreler uyuşmuyor"
     },
     "researchCategories": {
-        "1": "Seafaring",
-        "2": "Economy",
-        "3": "Knowledge",
-        "4": "Military"
+        "1": "Denizcilik",
+        "2": "Ekonomi",
+        "3": "Bilgi",
+        "4": "Askerî"
     },
     "research": {
         "1": {
-            "name": "Carpentry",
-            "text": "The forests of our islands offer excellent wood for building sturdy beams for the roofs of our most beautiful buildings. However, it is necessary to choose the pieces carefully and treat them. A city carpenter would ensure much less wood is wasted."
+            "name": "Marangozluk",
+            "text": "Adalarımızın ormanları, en güzel binalarımızın çatılarını taşıyacak sağlam kirişler için mükemmel ahşaplar sunar. Ancak bu kerestelerin özenle seçilip işlenmesi gerekir. Bir şehir marangozu, çok daha az odunun boşa gitmesini sağlayacaktır."
         },
         "2": {
-            "name": "Preservation",
-            "text": "We have learned how to store our raw materials well-protected for a long time. Additionally, part of our reserves is insured against theft by pirates and other villains!"
+            "name": "Koruma",
+            "text": "Hammadelerimizi uzun süre, iyi korunmuş şekilde depolamayı öğrendik. Ayrıca stoklarımızın bir kısmı, korsanlar ve diğer haydutlara karşı sigorta altındadır!"
         },
         "3": {
-            "name": "Pulley",
-            "text": "A brilliant idea: A rope wrapped around a roller gives a man the strength of Hercules. This way, our workers can lift giant stones and erect our monumental buildings more easily!"
+            "name": "Makaralar",
+            "text": "Dâhiyane bir fikir: Bir makaranın etrafına sarılı bir ip, bir adama Herkül'ün gücünü verir. Böylece işçilerimiz devasa taşları kaldırabilir ve anıtsal binalarımızı çok daha kolay inşa edebilir!"
         },
         "4": {
-            "name": "Wellbeing",
-            "text": "The land is full of valuable treasures! We have learned to expand sulfur and crystals, and to mine valuable marble. On our slopes, beautiful vineyards grow, giving us exquisite wines! A new era of prosperity will be born if we make use of these treasures. In a store, we can offer goods to foreign merchants and buy the goods we need to live."
+            "name": "Refah",
+            "text": "Topraklarımız değerli hazinelerle dolu! Kükürt ve kristali çıkarmayı, değerli mermeri yontmayı öğrendik. Yamaçlarımızda, bize nefis şaraplar sunan güzel bağlar yetişiyor! Bu hazineleri değerlendirirsek yeni bir refah çağı doğacaktır. Bir dükkânda, mallarımızı yabancı tüccarlara sunabilir ve yaşamamız için gerekli ürünleri satın alabiliriz."
         },
         "5": {
-            "name": "Wine Culture",
-            "text": "The happiness of the population also comes from great parties where wine flows in abundance! Dionysus enjoys the joy that his gifts bring!"
+            "name": "Şarap Kültürü",
+            "text": "Halkın mutluluğu, şarabın bolca aktığı büyük şenliklerden de gelir! Dionysos, armağanlarının getirdiği neşeden keyif duyar!"
         },
         "6": {
-            "name": "Improved Resource Collection",
-            "text": "Much time has passed since we learned how to use the resources of our island for our needs. Now we should educate our workers and allow each forest, quarry, vineyard, sulfur mine, and crystal mine to be managed by men who are both strong and skilled. This way we can obtain more resources and enrich our civilization!"
+            "name": "Geliştirilmiş Kaynak Toplama",
+            "text": "Adalarımızın kaynaklarını ihtiyaçlarımız için kullanmayı öğrenmemizin üzerinden çok zaman geçti. Artık işçilerimizi eğitmeli ve her orman, taş ocağı, bağ, kükürt ve kristal madeninin güçlü ve yetenekli insanlar tarafından yönetilmesini sağlamalıyız. Böylece daha fazla kaynak elde eder, uygarlığımızı zenginleştiririz!"
         },
         "7": {
-            "name": "Geometry",
-            "text": "Right angle, triangle, circle - some of the brightest minds can calculate how to build stronger and more splendid buildings. Soon our cities will be models to copy worldwide!"
+            "name": "Geometri",
+            "text": "Dik açı, üçgen, daire... En parlak zihinlerden bazıları, daha güçlü ve görkemli binaları nasıl inşa edeceğimizi hesaplayabilir. Yakında şehirlerimiz, tüm dünyanın örnek aldığı yerler olacak!"
         },
         "8": {
-            "name": "Architecture",
-            "text": "A good house can withstand the harshest elements. Even better when a brilliant mind designs it with some drawings and a bit of math in advance, so all walls are straight and the roof solid. Thanks to angles and compasses, our buildings will be much more stable and rain-protected. An Architect’s Office could save us a lot of marble—just imagine the savings when constructing a new building!"
+            "name": "Mimari",
+            "text": "İyi bir ev en sert hava koşullarına bile dayanır. Bir de bunu, tüm duvarları düzgün ve çatısı sağlam olacak şekilde, önceden çizimler ve biraz matematikle tasarlayan parlak bir zihin olursa çok daha iyi olur. Açıların ve pergelin yardımıyla binalarımız çok daha sağlam ve yağmura dayanıklı olacak. Bir Mimar Ofisi, yeni bina inşa ederken bize tonlarca mermer tasarrufu sağlayabilir!"
         },
         "9": {
-            "name": "Day of Rest",
-            "text": "A well-rested worker is much more efficient than a tired one. That is why every citizen will have a day off per week, making our inhabitants happier!"
+            "name": "Dinlenme Günü",
+            "text": "İyi dinlenmiş bir işçi, yorgun birinden çok daha verimlidir. Bu nedenle her vatandaşa haftada bir gün izin verilecek, böylece halkımız çok daha mutlu olacaktır!"
         },
         "10": {
-            "name": "Water Level",
-            "text": "Water always stays parallel to the ground—we should use this knowledge in building construction! Our city will shine even more, and we will spend much less wood and stone building!"
+            "name": "Su Seviyesi",
+            "text": "Su her zaman yer yüzeyiyle paralel kalır; bu bilgiyi inşaatta kullanmalıyız! Şehrimiz daha da parlayacak ve bina yaparken çok daha az odun ve taş harcayacağız!"
         },
         "11": {
-            "name": "Cellars",
-            "text": "Annual wine festivals bring the city to its feet! When the best grapes are pressed into wine, and liquid gold flows around, children enjoy themselves. With a skilled wine maker overseeing a wine press, we would waste much less. The wine master could also ensure proper storage so the wine matures well!"
+            "name": "Mahzenler",
+            "text": "Her yıl düzenlenen şarap festivalleri şehri ayağa kaldırır! En iyi üzümler şaraba dönüştüğünde ve sıvı altın aktığında, çocuklar bile bu coşkunun tadını çıkarır. Mahir bir şarap yapımcısının yönettiği bir şarap presiyle çok daha az israf olur. Usta şarapçı şarabın doğru şekilde saklanmasını da sağlayarak onun ideal biçimde olgunlaşmasını mümkün kılar!"
         },
         "12": {
-            "name": "Cistern",
-            "text": "Eureka! A cistern in our settlement! Now we don’t have to wait for rain. Our inhabitants live better and the fields won’t suffer droughts!"
+            "name": "Sarnıç",
+            "text": "Evrika! Yerleşimimizde bir sarnıç var! Artık yağmur beklemek zorunda değiliz. Halkımız daha iyi yaşıyor ve tarlalar kuraklıktan etkilenmiyor!"
         },
         "13": {
-            "name": "Paper",
-            "text": "We have found a way to better archive our knowledge! Thanks to papyrus made from the cyperus papyrus plant, we no longer have to carve our wisdom into stones!"
+            "name": "Kâğıt",
+            "text": "Bilgimizi çok daha iyi arşivlemenin bir yolunu bulduk! Cyperus papyrus bitkisinden elde edilen papirüs sayesinde bilgeliğimizi artık taşlara oymak zorunda değiliz!"
         },
         "14": {
-            "name": "Ink",
-            "text": "Nature provides everything we need to write: the bird with its feathers; the sea with creatures that give ink. Now we can record our ideas more easily!"
+            "name": "Mürekkep",
+            "text": "Doğa, yazmak için ihtiyaç duyduğumuz her şeyi bize sunar: Tüyleriyle kuşlar, mürekkebiyle deniz yaratıkları... Artık fikirlerimizi çok daha kolay kaydedebiliriz!"
         },
         "15": {
-            "name": "Optics",
-            "text": "When our scientists invent new things, much glass can break or get lost in the vastness of our laboratories. If an optician could ensure lenses and crystals are properly placed, we would waste much less glass!"
+            "name": "Optik",
+            "text": "Bilim insanlarımız yeni icatlar yaptığında, laboratuvarlarımızda pek çok cam eşya kırılabilir veya kaybolabilir. Eğer bir optikçi, lenslerin ve kristallerin doğru yerde kullanılmasını sağlarsa, çok daha az cam ziyan olur!"
         },
         "16": {
-            "name": "Mechanical Pencil",
-            "text": "A clever device: a clever inventor has taught a machine to write. Now we can multiply our writings and accelerate the exchange of ideas and knowledge among our researchers!"
+            "name": "Mekanik Kalem",
+            "text": "Zekice bir cihaz: Usta bir mucit, bir makineye yazı yazmayı öğretti. Artık yazılarımızı çoğaltabilir ve araştırmacılarımız arasındaki fikir ve bilgi alışverişini hızlandırabiliriz!"
         },
         "17": {
-            "name": "Pneumatic Mail",
-            "text": "A wonderful system: now we can send our papyri through tubes, allowing them to reach our researchers faster! This saves long trips and reduces gold expenditure for communications!"
+            "name": "Pnömatik Posta",
+            "text": "Harika bir sistem: Artık papirüslerimizi borular aracılığıyla gönderebilir ve araştırmacılarımıza çok daha hızlı ulaştırabiliriz! Böylece uzun yolculuklardan kurtulur ve iletişim masraflarını azaltırız!"
         },
         "18": {
-            "name": "Cartography",
-            "text": "Long marches through mountains and swamps wear down equipment. If we draw the most suitable paths for soldiers, they won’t lose time in undergrowth or mud, and uniforms will need less washing."
+            "name": "Kartografi",
+            "text": "Dağlar ve bataklıklar üzerinden yapılan uzun yürüyüşler ekipmanı yıpratır. Askerlerimiz için en uygun güzergâhları çizersek, çalılıklar ve çamur içinde zaman kaybetmezler ve üniformalar daha az kirlenir."
         },
         "19": {
-            "name": "Professional Army",
-            "text": "With a professional army, we can defend ourselves much better from pirates, barbarians, and other villains! It costs more than sending citizens to war, but our troops now know how to handle swords, spears, and shields."
+            "name": "Profesyonel Ordu",
+            "text": "Profesyonel bir orduyla, korsanlara, barbarlara ve diğer haydutlara karşı kendimizi çok daha iyi savunabiliriz! Vatandaşları savaşa göndermekten daha pahalıya mal olur, ama birliklerimiz artık kılıç, mızrak ve kalkan kullanmayı çok iyi biliyor."
         },
         "20": {
-            "name": "Siege",
-            "text": "With a metal-headed battering ram and the strength of ten men, we can even demolish entire city walls. Our soldiers will find it easier to conquer all cities!"
+            "name": "Kuşatma",
+            "text": "Metal kaplı bir koçbaşı ve on adamın gücüyle, en sağlam şehir surlarını bile yıkabiliriz. Askerlerimiz artık şehirleri çok daha kolay fethedecek!"
         },
         "21": {
-            "name": "Code of Honor",
-            "text": "Our soldiers are proud to serve their unit and island kingdom. They now treat their uniforms more carefully, reducing the need for repairs."
+            "name": "Onur Yasası",
+            "text": "Askerlerimiz, birliklerine ve ada krallıklarına hizmet etmekten gurur duyuyor. Üniformalarına artık çok daha özen gösteriyorlar, böylece daha az tamir gerekiyor."
         },
         "22": {
-            "name": "Ballistics",
-            "text": "Finally, we know how to shoot arrows better at our enemies. With this knowledge, we should start training soldiers in this art. Soon archers will be deployed to war!"
+            "name": "Balistik",
+            "text": "Sonunda oklarımızı düşmanlarımıza nasıl daha iyi isabet ettireceğimizi öğrendik. Bu bilgiyle, askerlere bu sanatı öğretmeye başlamalıyız. Çok yakında okçularımız savaş alanlarında yerlerini alacak!"
         },
         "23": {
-            "name": "Lever Rule",
-            "text": "With this technique, we can unleash incredible forces, even hurl massive rocks through the air! If the rocks are large enough, we can also break down any city wall!"
+            "name": "Kaldıraç Kuralı",
+            "text": "Bu teknikle, inanılmaz güçler açığa çıkarabilir, devasa kayaları bile havaya fırlatabiliriz! Eğer kayalar yeterince büyük olursa, herhangi bir şehir surunu da yıkabiliriz!"
         },
         "24": {
-            "name": "Pyrotechnics",
-            "text": "Sulfur is a truly terrible substance! With each new mixture, we can achieve an even greater impact. A safe practice ground allows our artificers to test inventions without endangering nearby buildings."
+            "name": "Piroteknik",
+            "text": "Kükürt gerçekten korkutucu bir maddedir! Her yeni karışımla daha büyük bir etki elde edebiliriz. Güvenli bir deneme alanı, ustalarımızın icatlarını yakın binaları tehlikeye atmadan test etmelerini sağlar."
         },
         "25": {
-            "name": "Logistics",
-            "text": "Our soldiers can fight much better if they don’t have to carry so much equipment. Their uniforms also deteriorate less after long marches, reducing maintenance needs."
+            "name": "Lojistik",
+            "text": "Askerlerimiz, üzerlerinde daha az yük taşıdıklarında çok daha iyi savaşır. Uzun yürüyüşlerden sonra üniformaları da daha az yıpranır ve bakım ihtiyacı azalır."
         },
         "26": {
-            "name": "Gunpowder",
-            "text": "This black mixture from the alchemist’s kitchen can ignite fire with great force, causing truly diabolical effects. Now we can load iron tubes with this powder to fire heavy cannonballs into the air."
+            "name": "Barut",
+            "text": "Simyacının mutfağından çıkan bu siyah karışım, büyük bir güçle ateş alabilir ve gerçekten şeytani etkiler yaratabilir. Artık demir boruları bu tozla doldurup ağır gülleleri havaya fırlatabiliriz."
         },
         "27": {
-            "name": "Robotics",
-            "text": "Our researchers have built a mechanical giant, with metal muscles and a steam heart! Only the bravest and most skilled soldiers can control such a monster, which terrorizes the enemy in the battlefield!"
+            "name": "Robotik",
+            "text": "Araştırmacılarımız metal kaslı, buharlı kalpli mekanik bir dev inşa etti! Bu canavarı yalnızca en cesur ve en yetenekli askerler kontrol edebilir ve savaş alanında düşmana dehşet saçar!"
         },
         "28": {
-            "name": "Cannon Foundry",
-            "text": "Our iron is getting heavier and harder! Now we can manufacture barrels to fire enormous balls at our enemies. With long-range bombs, enemy walls will tremble with fear!"
+            "name": "Top Dökümhanesi",
+            "text": "Demirimiz her geçen gün daha ağır ve sert hâle geliyor! Artık düşmanlarımıza devasa gülleler fırlatacak namlular üretebiliriz. Uzun menzilli bombalarla düşman surları korkudan titriyor!"
         },
         "29": {
-            "name": "Expansion",
-            "text": "The ocean surrounds us, but other islands await discovery. We are not alone! We can settle new territories, exploit new resources, and learn about other cultures! Our officials are happy to manage vast lands and their wealth."
+            "name": "Genişleme",
+            "text": "Okyanus bizi çevreliyor, ama keşfedilmeyi bekleyen başka adalar da var. Yalnız değiliz! Yeni topraklara yerleşebilir, yeni kaynaklardan yararlanabilir ve farklı kültürlerle tanışabiliriz! Görevlilerimiz, geniş toprakları ve zenginliklerini yönetmekten mutluluk duyuyor."
         }
     },
     "units": {
         "1": {
-            "name": "Spearman",
-            "text": "Spearmen are conscripts from the rural population, that go into battle with light armour and basic spears. They do not usually have a chance against professional soldiers."
+            "name": "Mızraklı",
+            "text": "Mızraklılar, hafif zırhlı ve basit mızraklarla savaşa giden kırsal halktan toplanmış birliklerdir. Genellikle profesyonel askerler karşısında pek şansları yoktur."
         },
         "2": {
-            "name": "Slinger",
-            "text": "Slings are light and cheap weapons. They cannot inflict much damage on well-armed opponents, but at least their munition is readily available."
+            "name": "Sapanlı",
+            "text": "Sapanlar hafif ve ucuz silahlardır. İyi zırhlı düşmanlara karşı fazla zarar veremezler, ancak mühimmatları her yerde bulunabilir."
         },
         "3": {
-            "name": "Archer",
-            "text": "Bows are a very popular hunting equipment, so it is very easy to recruit archers amongst citizens. Military training turns simple citizens into formidable long-range combat troops."
+            "name": "Okçu",
+            "text": "Yaylar, avcılıkta çok yaygın kullanıldığı için vatandaşlar arasından okçu toplamak oldukça kolaydır. Askerî eğitim, sıradan vatandaşları etkili bir uzun menzilli birlik hâline getirir."
         },
         "4": {
             "name": "Hoplite",
-            "text": "Hoplites are heavily armoured spearmen from the towns` middle classes. They form the heart of every Greek army. In the so-called `Phalanx` formation they push forward in an unstoppable wall of spears and shields."
+            "text": "Hoplite'lar, şehirlerin orta sınıfından gelen ağır zırhlı mızraklı askerlerdir. Her Yunan ordusunun kalbini oluştururlar. \"Falanx\" adı verilen formasyonda, mızrak ve kalkanlardan oluşan durdurulamaz bir duvar şeklinde ilerlerler."
         },
         "5": {
-            "name": "Swordsman",
-            "text": "Sword fighters are usually barely armoured and fight without shields to retain their mobility. Thus they can circulate around the immobile Phalanx formation and attack from the flanks."
+            "name": "Kılıç Ustası",
+            "text": "Kılıç savaşçıları genellikle hafif zırhlıdır ve hareket kabiliyetlerini korumak için kalkan kullanmazlar. Böylece hareketsiz Falanx formasyonunun etrafından dolaşıp yanlardan saldırabilirler."
         },
         "6": {
-            "name": "Steam Giant",
-            "text": "This powerful machine moves like a person on the battlefield, but has a superhuman hit strength. Stones, arrows and swords simply bounce off it. Woe betide anyone who dares to oppose it!"
+            "name": "Buhar Devi",
+            "text": "Bu güçlü makine, savaş alanında bir insan gibi hareket eder, ancak insanüstü bir darbe gücüne sahiptir. Taşlar, oklar ve kılıçlar üzerinden sekiyormuş gibi etkisiz kalır. Bu devin karşısına çıkmaya cüret edenlerin vay hâline!"
         }
     }
 }
