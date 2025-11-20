@@ -15,7 +15,7 @@ const UserResources: React.FC<UserResourcesProps> = ({gold, ships, shipsAvailabl
 
     return (
         <div className="select-none">
-            <a href="https://www.patreon.com/glarium" target="_blank" rel="noreferrer">
+            <a href="https://www.patreon.com/ottomanknights" target="_blank" rel="noreferrer">
                 <div
                     className="w-[110px] h-[30px] cursor-pointer bg-cover flex justify-center items-center"
                     title={t("navigation.patreon")}

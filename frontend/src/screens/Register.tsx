@@ -4,6 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import * as Yup from "yup";
 import { useRegister } from "../hooks/useRegister";
+import AuthStory from "../components/AuthStory";
 const sha1 = require("js-sha1");
 
 const Register: React.FC = () => {
@@ -125,6 +126,8 @@ const Register: React.FC = () => {
                     </Link>
                 </div>
             </div>
+
+            <AuthStory />
         </div>
     );
 };
