@@ -4,6 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import * as Yup from "yup";
 import { useLogin } from "../hooks/useLogin";
+import AuthStory from "../components/AuthStory";
 const sha1 = require("js-sha1");
 
 const Login: React.FC = () => {
@@ -91,6 +92,8 @@ const Login: React.FC = () => {
                     </Link>
                 </div>
             </div>
+
+            <AuthStory />
         </div>
     );
 };
