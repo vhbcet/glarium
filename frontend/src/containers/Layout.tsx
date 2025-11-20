@@ -53,7 +53,7 @@ const Layout: React.FC = () => {
                 <div className="px-6 py-1 cursor-pointer hover:underline">{t("layout.options")}</div>
                 <div className="px-6 py-1">
                     <a
-                        href="https://github.com/verza22/glarium"
+                        href="https://github.com/verza22/ottoman-knights"
                         target="_blank"
                         rel="noreferrer"
                         className="hover:underline"

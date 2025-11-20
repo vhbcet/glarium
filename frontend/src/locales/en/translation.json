@@ -352,6 +352,12 @@
         "alreadyAccount": "Zaten bir hesabınız var mı?",
         "login": "Giriş Yap"
     },
+    "story": {
+        "title": "Osmanlı Hikâyesi",
+        "subtitle": "Payitahtın gölgesinde yükselen sancak",
+        "description": "Ottoman Knights artık Osmanlı İmparatorluğu'nun kudretini yeniden inşa ettiğiniz bir diyar. Marmara ve Ege adalarında bir sancak beyi olarak, fetihlerle büyüyen hanedanınız için limanlar, medreseler ve tersaneler kuruyorsunuz.",
+        "details": "Şehrinizi Saray'a bağlı tutarken yeni eyaletler kurun, Kapudan-ı Derya'nın donanmasını güçlendirin ve kervan yollarını kontrol ederek hazinenizi doldurun. Her bina ve araştırma, Osmanlı'nın yükseliş ve duraklama dönemlerinden ilham alan tarihî bir gelişime bağlanır."
+    },
     "validation": {
         "required": "Bu alan zorunludur",
         "max": "Maksimum {{max}} karakter",
