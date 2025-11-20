@@ -4,6 +4,7 @@ export interface WorldConfig {
     load_speed_base: number;
     load_attack_return: number;
     load_defend_return: number;
+    time_scale: number;
     bonus: {
       resources: number;
       tavern: number;

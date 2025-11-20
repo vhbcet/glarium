@@ -41,6 +41,7 @@ export const useUserStore = create<UserState>()(
                 load_speed_base: 0,
                 load_attack_return: 0,
                 load_defend_return: 0,
+                time_scale: 1,
                 bonus: {
                     resources: 0,
                     tavern: 0,
@@ -88,6 +89,7 @@ export const useUserStore = create<UserState>()(
                         load_speed_base: 0,
                         load_attack_return: 0,
                         load_defend_return: 0,
+                        time_scale: 1,
                         bonus: {
                             resources: 0,
                             tavern: 0,
